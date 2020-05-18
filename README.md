@@ -5,3 +5,4 @@ Initially a personal project and not writted to be used by others, this reposito
 
 ## Javascript Tools
 These tools were written to be used with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://www.tampermonkey.net/), or other similar userscript managers.
+Settings are configurable in each file, with default example configs included.
